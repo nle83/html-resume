@@ -1,0 +1,80 @@
+
+section {
+	overflow: auto;
+}
+
+.main {
+	width: 70%;
+}
+
+.sub {
+	width: 99%;
+}
+
+p {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+
+.left {
+	float: left;
+	position: relative;
+	font-size: 30px;
+	width: 29%;
+	text-align: left;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	padding-bottom: 20px;
+}
+
+.left li {
+	list-style-type: none;
+	font-size: 20px;
+}
+
+.right {
+	float: right;
+	position: relative;
+	font-size: 15px;
+	text-align: right;
+	width: 70%;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	padding-bottom: 20px;
+}
+
+.right li{
+	text-align: left;
+}
+
+
+h1 {
+	font-style: bold;
+	font-family: Georgia, serif;
+	font-size: 35px;
+	padding-bottom: 0px;
+	border-bottom: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+}
+
+h2 {
+	font-style: bold;
+	font-family: Georgia, serif;
+	clear: both;
+	text-align: center;
+	width: 99%;
+	border: solid black 1px;
+}
+
+p {
+	font-size: 18px;
+}
+
+li {
+	font-size: 18px;
+}
